@@ -1,0 +1,11 @@
+C:\Users\rob.schleinkofer\source\repos\AWSEmailClient\AWSEmailClient\bin\Debug\netcoreapp2.1\AWSEmailClient.deps.json
+C:\Users\rob.schleinkofer\source\repos\AWSEmailClient\AWSEmailClient\bin\Debug\netcoreapp2.1\AWSEmailClient.runtimeconfig.json
+C:\Users\rob.schleinkofer\source\repos\AWSEmailClient\AWSEmailClient\bin\Debug\netcoreapp2.1\AWSEmailClient.runtimeconfig.dev.json
+C:\Users\rob.schleinkofer\source\repos\AWSEmailClient\AWSEmailClient\bin\Debug\netcoreapp2.1\AWSEmailClient.dll
+C:\Users\rob.schleinkofer\source\repos\AWSEmailClient\AWSEmailClient\bin\Debug\netcoreapp2.1\AWSEmailClient.pdb
+C:\Users\rob.schleinkofer\source\repos\AWSEmailClient\AWSEmailClient\obj\Debug\netcoreapp2.1\AWSEmailClient.csproj.CoreCompileInputs.cache
+C:\Users\rob.schleinkofer\source\repos\AWSEmailClient\AWSEmailClient\obj\Debug\netcoreapp2.1\AWSEmailClient.AssemblyInfoInputs.cache
+C:\Users\rob.schleinkofer\source\repos\AWSEmailClient\AWSEmailClient\obj\Debug\netcoreapp2.1\AWSEmailClient.AssemblyInfo.cs
+C:\Users\rob.schleinkofer\source\repos\AWSEmailClient\AWSEmailClient\obj\Debug\netcoreapp2.1\AWSEmailClient.dll
+C:\Users\rob.schleinkofer\source\repos\AWSEmailClient\AWSEmailClient\obj\Debug\netcoreapp2.1\AWSEmailClient.pdb
+C:\Users\rob.schleinkofer\source\repos\AWSEmailClient\AWSEmailClient\obj\Debug\netcoreapp2.1\AWSEmailClient.csprojAssemblyReference.cache
